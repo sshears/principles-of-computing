@@ -1,0 +1,7 @@
+P:\Digital\VS\18Sinead Shears\high low\high low\bin\Debug\high low.exe.config
+P:\Digital\VS\18Sinead Shears\high low\high low\bin\Debug\high low.exe
+P:\Digital\VS\18Sinead Shears\high low\high low\bin\Debug\high low.pdb
+P:\Digital\VS\18Sinead Shears\high low\high low\obj\Debug\high low.csprojAssemblyReference.cache
+P:\Digital\VS\18Sinead Shears\high low\high low\obj\Debug\high low.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Sinead Shears\high low\high low\obj\Debug\high low.exe
+P:\Digital\VS\18Sinead Shears\high low\high low\obj\Debug\high low.pdb
